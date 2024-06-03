@@ -1,2 +1,1 @@
-# vlicense
-Violent Studio License.
+Violent Studio [License](https://github.com/violent-studio/vlicense/blob/main/LICENSE).
